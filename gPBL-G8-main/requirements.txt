@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+paho-mqtt
+ollama
+SpeechRecognition
+pyaudio
+pydub
+openai-whisper
